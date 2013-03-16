@@ -1,0 +1,17 @@
+{
+  "/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/Coordenadas_Grograficas/src": {
+    "location": "/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/Coordenadas_Grograficas/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/Coordenadas_Grograficas/src\u0027. Skipped."
+  },
+  "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/rt.jar": {
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/rt.jar\u0027. Neither fingerprint \u00275ccd809c243c98ea2f95c882d93b8e5ae5a4aee2\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "/home/ezanardi/android-sdk-linux/platforms/android-17/android.jar": {
+    "location": "/home/ezanardi/android-sdk-linux/platforms/android-17/android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/home/ezanardi/android-sdk-linux/platforms/android-17/android.jar\u0027. Neither fingerprint \u0027f3fec4e3d887c5bba177bd62933a8e9ee4b4403c\u0027 nor symbolic name \u0027android\u0027 are known."
+  }
+}

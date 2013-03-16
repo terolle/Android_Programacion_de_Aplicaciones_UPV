@@ -1,0 +1,184 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "48c94ae70fa65718b382098237806a5909bb096e",
+    "jarFileModificationDate": "2013-03-02T14:48:28Z",
+    "location": "/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/Asteroides/libs/android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1ff2501cc1550270367475e5fad6a7d2ae3dc576",
+    "jarFileModificationDate": "2011-05-04T09:32:41+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c3d743e526dd8a454833856d0cf0cfb630515eba",
+    "jarFileModificationDate": "2011-06-09T16:17:15+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "48c94ae70fa65718b382098237806a5909bb096e",
+    "jarFileModificationDate": "2013-03-02T14:48:28Z",
+    "location": "/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/ZanardiE_U3/libs/android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5d7ea1544ab06ed224cd7474248470bba7180cf",
+    "jarFileModificationDate": "2011-05-04T09:26:15+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2357317d1e1f14937b3bda942c58791ee1dba581",
+    "jarFileModificationDate": "2011-05-04T09:15:40+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "839cd154c868feaa6ec0a45f492e56238b40cedd",
+    "jarFileModificationDate": "2011-05-04T09:43:38+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "48c94ae70fa65718b382098237806a5909bb096e",
+    "jarFileModificationDate": "2013-03-10T10:52:07Z",
+    "location": "/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/EjemploGraficos/libs/android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ccd809c243c98ea2f95c882d93b8e5ae5a4aee2",
+    "jarFileModificationDate": "2011-06-13T15:51:24+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0291c376892d71518905b96b156834389a0da26c",
+    "jarFileModificationDate": "2011-05-04T09:15:40+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "48c94ae70fa65718b382098237806a5909bb096e",
+    "jarFileModificationDate": "2013-03-04T20:47:45Z",
+    "location": "/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/Intenciones/libs/android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1f64e57a95f3e2936b929ef9196d47b4f69ee86",
+    "jarFileModificationDate": "2011-06-09T16:17:12+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0e271451ef8decc4b58d67ef886017c01c1b83d1",
+    "jarFileModificationDate": "2011-06-09T16:17:12+01:00",
+    "location": "/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f3fec4e3d887c5bba177bd62933a8e9ee4b4403c",
+    "jarFileModificationDate": "2013-02-05T18:29:54Z",
+    "location": "/home/ezanardi/android-sdk-linux/platforms/android-17/android.jar",
+    "javaRuntime": false
+  }
+]

@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/ezanardi/Cursos/MiriadaX/Android_Programación_de_Aplicaciones_UPV/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1694168249.index
+1801057663.index
+1040270391.index
