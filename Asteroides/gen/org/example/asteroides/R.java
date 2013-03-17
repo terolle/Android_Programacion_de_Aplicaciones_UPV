@@ -21,31 +21,39 @@ public final class R {
         public static final int asteroide1=0x7f020000;
         public static final int asteroide2=0x7f020001;
         public static final int asteroide3=0x7f020002;
-        public static final int ic_launcher=0x7f020003;
+        public static final int fondo=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int misil1=0x7f020005;
+        public static final int misil2=0x7f020006;
+        public static final int misil3=0x7f020007;
+        public static final int nave=0x7f020008;
+        public static final int nave_fuego=0x7f020009;
     }
     public static final class id {
-        public static final int LinearLayout1=0x7f0a0004;
+        public static final int LinearLayout1=0x7f0a0005;
         public static final int TextView01=0x7f0a0000;
-        public static final int acercaDe=0x7f0a000f;
-        public static final int button1=0x7f0a0006;
-        public static final int button2=0x7f0a0007;
-        public static final int button3=0x7f0a0008;
-        public static final int button4=0x7f0a000a;
-        public static final int button5=0x7f0a0009;
-        public static final int config=0x7f0a000e;
+        public static final int VistaJuego=0x7f0a0004;
+        public static final int acercaDe=0x7f0a0010;
+        public static final int button1=0x7f0a0007;
+        public static final int button2=0x7f0a0008;
+        public static final int button3=0x7f0a0009;
+        public static final int button4=0x7f0a000b;
+        public static final int button5=0x7f0a000a;
+        public static final int config=0x7f0a000f;
         public static final int icono=0x7f0a0001;
-        public static final int menu_settings=0x7f0a000d;
+        public static final int menu_settings=0x7f0a000e;
         public static final int subtitulo=0x7f0a0003;
-        public static final int tableRow1=0x7f0a000b;
-        public static final int tableRow2=0x7f0a000c;
-        public static final int textView1=0x7f0a0005;
+        public static final int tableRow1=0x7f0a000c;
+        public static final int tableRow2=0x7f0a000d;
+        public static final int textView1=0x7f0a0006;
         public static final int titulo=0x7f0a0002;
     }
     public static final class layout {
         public static final int acercade=0x7f030000;
         public static final int elemento_lista=0x7f030001;
-        public static final int main=0x7f030002;
-        public static final int puntuaciones=0x7f030003;
+        public static final int juego=0x7f030002;
+        public static final int main=0x7f030003;
+        public static final int puntuaciones=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f090000;
