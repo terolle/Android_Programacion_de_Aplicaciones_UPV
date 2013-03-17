@@ -7,15 +7,10 @@
     android:orientation="vertical"
     tools:context=".EjemploGraficosActivity" >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-
     <org.example.ejemplograficos.EjemploView
         android:id="@+id/ejemploView1"
-        android:layout_width="200dp"
-        android:layout_height="100dp" />
+        android:layout_width="200px"
+        android:layout_height="100px" />
 
     <org.example.ejemplograficos.EjemploView
         android:id="@+id/ejemploView2"
