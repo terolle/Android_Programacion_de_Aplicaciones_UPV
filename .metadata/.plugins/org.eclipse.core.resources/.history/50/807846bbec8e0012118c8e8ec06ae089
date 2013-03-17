@@ -21,7 +21,7 @@ public class EjemploGraficosActivity extends Activity {
 		
 		public EjemploView (Context context) {
 			super(context);
-			setBackgroundResource(R.drawable.degradado);
+//			setBackgroundResource(R.drawable.degradado);
 			Resources res = context.getResources();
 			miImagen = res.getDrawable(R.drawable.mi_imagen);
 			miImagen.setBounds(30,30,200,200);
