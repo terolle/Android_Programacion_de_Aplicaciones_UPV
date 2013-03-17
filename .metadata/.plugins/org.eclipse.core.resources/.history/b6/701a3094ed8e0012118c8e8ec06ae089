@@ -1,7 +1,12 @@
 package org.example.ejemplograficos;
 
 import android.app.Activity;
+import android.content.Context;
+import android.graphics.Canvas;
+import android.graphics.drawable.ShapeDrawable;
+import android.graphics.drawable.shapes.OvalShape;
 import android.os.Bundle;
+import android.view.View;
 
 public class EjemploGraficosActivity extends Activity {
 
